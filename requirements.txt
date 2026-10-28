@@ -1,0 +1,8 @@
+streamlit
+google-genai
+pydantic
+networkx
+pyvis
+fpdf2
+Pillow
+pandas
